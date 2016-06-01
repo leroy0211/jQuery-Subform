@@ -1,0 +1,22 @@
+{
+  "name": "jQuery-Subform",
+  "description": "a jQuery plugin to handle divs as forms without the use of writing jQuery code",
+  "main": "index.js",
+  "authors": [
+    "Leroy <leroybaeyens@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/leroy0211/jQuery-Subform",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "qunit": "^1.23.1",
+    "jQuery.serializeObject": "^2.0.3",
+    "jquery": "^2.2.4"
+  }
+}

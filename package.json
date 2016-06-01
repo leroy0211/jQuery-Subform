@@ -4,7 +4,7 @@
   "description": "a jQuery plugin to handle divs as forms without the use of writing jQuery code",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt test"
   },
   "repository": {
     "type": "git",
