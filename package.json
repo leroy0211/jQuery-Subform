@@ -1,0 +1,21 @@
+{
+  "name": "jQuery-Subform",
+  "version": "0.1.0",
+  "description": "a jQuery plugin to handle divs as forms without the use of writing jQuery code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leroy0211/jQuery-Subform.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leroy0211/jQuery-Subform/issues"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.1"
+  }
+}
